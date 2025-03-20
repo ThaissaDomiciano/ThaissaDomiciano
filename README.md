@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Thaissa Domiciano  
 
-<!--
-**ThaissaDomiciano/ThaissaDomiciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Aprendendo **HTML, CSS, JavaScript e React**  
+🎨 Apaixonada por **Front-end** e iniciando minha jornada na programação  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou estudando:  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thaissa-domiciano-7b5b8431b)  
+
+---
+  
+✨ Obrigada por visitar meu perfil! Vamos aprender e crescer juntos 🚀
+
