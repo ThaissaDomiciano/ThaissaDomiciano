@@ -2,7 +2,7 @@
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Aprendendo **HTML, CSS, JavaScript e React**  
-🎨 Apaixonada por **Front-end** e iniciando minha jornada na programação  
+🎨 Apaixonada por **Desenvolvimento** e iniciando minha jornada na programação  
 
 ### 🛠️ Tecnologias que estou estudando:  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
