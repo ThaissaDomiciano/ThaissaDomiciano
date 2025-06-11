@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Thaissa Domiciano  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Aprendendo **HTML, CSS, JavaScript e React**  
+🚀 Aprendendo **JavaScript e React**  
 🎨 Apaixonada por **Desenvolvimento** e iniciando minha jornada na programação  
 
 ### 🛠️ Tecnologias que estou estudando:  
